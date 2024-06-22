@@ -10,9 +10,10 @@
 
 Steps to build and/or run the software:
 
-1. Make sure to type into the terminal Cargo build to build it
-2. Then type cargo run to get it initialized (im not sure if its necessary but its smart to make sure)
-3. 
+1. Make a new cargo file on your computer and copy and paste my main.rs program over to your main.rs file 
+2. Make sure to type into the terminal Cargo build to build it
+3. Then type cargo run to get it initialized (im not sure if its necessary but its smart to make sure)
+
 
 Instructions for using the software:
 
